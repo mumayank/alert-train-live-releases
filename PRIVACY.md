@@ -27,9 +27,3 @@ You can look up trains, save the ones you care about, see live status and schedu
 ## App updates
 
 The app may check a public release page for a newer version and, if you choose, download that update to your device. That check is only for app updates - not for tracking.
-
-## Contact
-
-If you have a privacy question about Alert Train Live, open an issue on the public releases repository for the app, or contact the developer through the GitHub profile that publishes the app updates.
-
-*Last updated: 12 October 2026*
