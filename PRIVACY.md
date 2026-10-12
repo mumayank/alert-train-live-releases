@@ -22,7 +22,7 @@ Alert Train Live is free forever. There are:
 
 ## What the app does
 
-You can look up trains, save the ones you care about, see live status and schedule information for your journey, set arrival-style alarms, and view coach layout details when available. Optional Android permissions (notifications, battery, overlay, and similar) are used only so those features can work on your device - never to track you.
+You can look up trains, save the ones you care about, see live status and schedule information for your journey, set arrival-style alarms, and view coach layout details when available. To show schedules and live status, the app fetches public train timetables and running status from the internet. Only the train number and date you ask about are used for this. Optional Android permissions (notifications, battery, overlay, and similar) are used only so those features can work on your device - never to track you.
 
 ## App updates
 
